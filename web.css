@@ -1,0 +1,251 @@
+body{
+    background-image: url(https://cdn.wallpapersafari.com/45/53/xBYwPD.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+    
+.quote{
+position: absolute;
+color: antiquewhite;
+font-size: 60px;
+top: 30%;
+left: 4%;
+}
+
+
+    .logo{
+        border: 3px solid color(srgb red green blue);
+        border-radius: 10px;
+        background-color: rgb(255, 255, 255);    
+        width: 250px;
+        height: 50px;
+        position: absolute;
+        top: 1%;
+        left: 1%;
+        }
+
+.box{
+    border: 3px solid color(srgb red green blue);
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);  
+    width: 800px;
+    height: 60px;
+    position: absolute;
+    top: 1%;
+        right: 1%;
+}
+
+    .con{   
+    position: absolute;
+    right: 2%;
+    color:rgb(255, 255, 255);
+    }
+    
+    .gal{
+    position: absolute;
+    right: 33%;
+    color:rgb(255, 255, 255);
+    }
+    
+    .ab{
+    position: absolute;
+    left: 26%;
+    color:rgb(255, 255, 255);
+    }
+    
+    .ho{
+    position: absolute;
+    left: 2%;
+    color:rgb(255, 255, 255);
+    }
+    
+.back_g{
+    background-color: rgb(0, 0, 0);  
+    border: 2px solid color(srgb red green blue); 
+    height: 30%;
+    width: 99.1%;
+    display: flex;
+    position: fixed;
+    bottom: 0%;
+}
+
+.mg_logo{
+    height: 286px;
+    width: 250px;
+}
+    
+.tx1{
+    color: white;
+position: absolute;
+bottom: 17%;
+left: 30%;
+}    
+    
+.tx2{
+    color: white;
+    position: absolute;
+    bottom: 22%;
+    left: 55%;
+    }     
+
+
+    .footer_logo{
+        position: absolute;
+        bottom: 41%;
+        left: 80%;
+height: 37px;
+width: 240px;
+    }
+    
+    html, body{
+height: 180%;
+
+    }
+
+
+.about1{
+    display: flex;
+    font-size: 20px;
+    position: absolute;
+    color: antiquewhite;
+    background-color: rgb(73, 73, 73);
+    top: 10%;
+    border: 2px solid;
+    height: auto;
+    max-width: 99%;
+
+}
+.skills{
+    border: 2px solid;
+    position: relative;
+    top: 20%;
+}
+
+.skill1{
+    margin: 50px;
+    display: flex;
+position: relative;
+}
+
+.imagecham{
+    display: flex;
+    margin: 50px;
+    position: absolute;
+    bottom: 35%;
+    left: 1.5%;
+    width: 900px;
+    height: 400px;
+}
+
+.imagecham1{
+    display: flex;
+    margin: 50px;
+    position: absolute;
+    bottom: 10%;
+    left: 1.5%;
+    width: 900px;
+    height: 400px;
+}
+
+    .bg{
+    width: 900px;
+    height: 400px;
+    margin: 50px;
+    display: flex;
+    position: absolute;
+    top: 10%;
+    left: 12%;
+    }
+    
+    .bg1{
+        width: 900px;
+        height: 400px;
+        margin: 50px;
+        display: flex;
+        position: absolute;
+        top: 50%;
+        left: 12%;
+        }
+    
+        .bg2{
+            width: 900px;
+            height: 400px;
+            margin: 50px;
+            display: flex;
+            position: absolute;
+            top: 90%;
+            left: 12%;
+            }
+        
+    .border{
+    margin: 20px;
+    }
+    
+    .photo{
+    width: 400px;   
+    height: 300px;
+    }
+    
+    .vidgal{
+        position: relative;
+        bottom: 0%;
+        width: 400px;   
+        height: 300px;
+    }
+
+    .contact{
+    color: antiquewhite;
+    margin: 100px;
+    border: 2px solid;
+    background-color: rgb(73, 73, 73);
+    height: 500px;
+    max-width: 100%;
+    position: relative;
+    left: 0%;
+    }
+    
+    .email_c{
+        position: absolute;
+        top:  11%;
+        right: 35%;
+    }
+
+    .email{
+        width: 498px;
+        height: 50px;
+    }
+    
+    .subject_c{
+        position: absolute;
+        top: 25%;
+        right: 35%;
+    }
+    .subject{
+        width: 498px;
+        height: 50px;
+    }
+    
+    .comment_c{
+        position: absolute;
+        bottom: 20%;
+        right: 35%;
+    }
+
+    .comsec{
+        width: 500px;
+        height: 200px;
+    }
+    
+    .button_c{
+        position: absolute;
+        left: 45%;
+        bottom: 10px;
+   
+    }
+
+    .button{
+        width: 100px;
+        height: 60px;  
+    }
